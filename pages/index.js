@@ -1,8 +1,15 @@
 
+
 function Home() {
   return (
     <div>
-      subloser_ii
+      <div className="content">
+        <h1>
+          subloser_ii
+        </h1>
+      </div>
     </div>
   )
 }
+
+export default Home
