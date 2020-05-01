@@ -1,12 +1,13 @@
-
+import Title from "../components/Title"
 
 function Home() {
   return (
     <div>
       <div className="content">
-        <h1>
+        <Title>
           subloser_ii
-        </h1>
+        </Title>
+        
       </div>
     </div>
   )
